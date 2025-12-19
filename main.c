@@ -16,6 +16,5 @@ int main(void) {
     int siarr = sizeof(arr);
     printf("Size of array is %d\n",siarr);
     Double(arr,size);//arr表示首元素的地址
-    return 0;
-}//
-// Created by qw on 2025/12/11.
+    return 0;//返回值
+}
